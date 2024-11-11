@@ -1,0 +1,2440 @@
+{
+    "version": {
+        "json_export": "207",
+        "page_segmentation": "5",
+        "schema": "1.1.0",
+        "structure": "1.1115.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "62 37 57 23 30 BB B2 11 0A 00 4A 94 E8 2A EC 58 ",
+        "ID_permanent": "A5 14 C6 48 85 A7 BD 42 8E F5 68 3C 5B C2 F3 A6 ",
+        "has_acroform": false,
+        "has_embedded_files": false,
+        "is_XFA": false,
+        "is_certified": false,
+        "is_encrypted": false,
+        "is_digitally_signed": false,
+        "language": "zh-TW",
+        "page_count": 1,
+        "pdf_version": "1.7",
+        "pdfa_compliance_level": "",
+        "pdfua_compliance_level": ""
+    },
+    "elements": [
+        {
+            "Bounds": [
+                49.55999755859375,
+                447.17872619628906,
+                544.8699951171875,
+                766.3840789794922
+            ],
+            "ObjectID": 150,
+            "Page": 0,
+            "Path": "//Document/Sect/Table",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    442.6959999999963,
+                    548.1379999999772,
+                    770.6429999999818
+                ],
+                "NumCol": 6,
+                "NumRow": 5,
+                "Placement": "Block",
+                "SpaceAfter": 11.25
+            }
+        },
+        {
+            "Bounds": [
+                52.44000244140625,
+                755.2687225341797,
+                137.62356567382812,
+                766.3840789794922
+            ],
+            "ObjectID": 152,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    750.7239999999874,
+                    139.7939999999944,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.625,
+                    0.25
+                ],
+                "ColIndex": 0,
+                "Height": 19.875,
+                "InlineAlign": "End",
+                "RowIndex": 0,
+                "Width": 92.5
+            }
+        },
+        {
+            "Bounds": [
+                52.44000244140625,
+                755.2687225341797,
+                137.62356567382812,
+                766.3840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 153,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH/P",
+            "Text": "公司名稱/人數規模 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                144.86000061035156,
+                755.2687225341797,
+                232.80955505371094,
+                766.3840789794922
+            ],
+            "ObjectID": 154,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[2]",
+            "attributes": {
+                "BBox": [
+                    139.19399999999587,
+                    750.7239999999874,
+                    235.7899999999936,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 1,
+                "Height": 19.875,
+                "InlineAlign": "Start",
+                "RowIndex": 0,
+                "Width": 96.625
+            }
+        },
+        {
+            "Bounds": [
+                144.86000061035156,
+                755.2687225341797,
+                232.80955505371094,
+                766.3840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 155,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[2]/P",
+            "Text": "部門/職稱/工作內容 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                238.00999450683594,
+                755.2886352539062,
+                307.0566101074219,
+                765.4179534912109
+            ],
+            "ObjectID": 156,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[3]",
+            "attributes": {
+                "BBox": [
+                    235.18999999999505,
+                    750.7239999999874,
+                    307.5469999999914,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 2,
+                "Height": 19.875,
+                "InlineAlign": "Start",
+                "RowIndex": 0,
+                "Width": 72.375
+            }
+        },
+        {
+            "Bounds": [
+                238.00999450683594,
+                755.2886352539062,
+                307.0566101074219,
+                765.4179534912109
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 157,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[3]/P",
+            "Text": "起訖年月(西元) ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                314.3500061035156,
+                755.2687225341797,
+                356.67999267578125,
+                766.3840789794922
+            ],
+            "ObjectID": 158,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[4]",
+            "attributes": {
+                "BBox": [
+                    306.9479999999894,
+                    750.7239999999874,
+                    361.78499999998894,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 3,
+                "Height": 19.875,
+                "InlineAlign": "Center",
+                "RowIndex": 0,
+                "Width": 54.875
+            }
+        },
+        {
+            "Bounds": [
+                314.3500061035156,
+                755.2687225341797,
+                356.67999267578125,
+                766.3840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 159,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[4]/P",
+            "Text": "離職原因 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                393.6699981689453,
+                755.2687225341797,
+                436.0,
+                766.3840789794922
+            ],
+            "ObjectID": 160,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[5]",
+            "attributes": {
+                "BBox": [
+                    361.1849999999977,
+                    750.7239999999874,
+                    466.3009999999922,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 4,
+                "Height": 19.875,
+                "InlineAlign": "Center",
+                "RowIndex": 0,
+                "Width": 105.125
+            }
+        },
+        {
+            "Bounds": [
+                393.6699981689453,
+                755.2687225341797,
+                436.0,
+                766.3840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 161,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[5]/P",
+            "Text": "離職月薪 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                496.7799987792969,
+                755.2687225341797,
+                519.1900024414062,
+                766.3840789794922
+            ],
+            "ObjectID": 162,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[6]",
+            "attributes": {
+                "BBox": [
+                    465.7009999999864,
+                    750.7239999999874,
+                    548.737999999983,
+                    770.6429999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.75,
+                    0.375,
+                    0.25,
+                    0.625
+                ],
+                "ColIndex": 5,
+                "Height": 19.875,
+                "InlineAlign": "Center",
+                "RowIndex": 0,
+                "Width": 83
+            }
+        },
+        {
+            "Bounds": [
+                496.7799987792969,
+                755.2687225341797,
+                519.1900024414062,
+                766.3840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 163,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR/TH[6]/P",
+            "Text": "年薪 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                684.2286376953125,
+                102.14591979980469,
+                724.3579559326172
+            ],
+            "ObjectID": 165,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    660.2469999999739,
+                    139.7939999999944,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.625,
+                    0.25
+                ],
+                "ColIndex": 0,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 92.5
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                684.2286376953125,
+                102.14591979980469,
+                724.3579559326172
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 166,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD/P",
+            "Text": "公司:comp1 部門:dep1 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 30
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                682.0487213134766,
+                233.36912536621094,
+                729.6379547119141
+            ],
+            "ObjectID": 167,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    139.19399999999587,
+                    660.2469999999739,
+                    235.7899999999936,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 1,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 96.625
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                706.5486450195312,
+                215.70848083496094,
+                729.6379547119141
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 168,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[2]/P",
+            "Text": "職稱：sub1 工作內容：cont1 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 13
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                682.0487213134766,
+                233.36912536621094,
+                693.1640777587891
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 169,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[2]/P[2]",
+            "Text": "擔任主管：□是□否 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                683.7287139892578,
+                307.1000061035156,
+                719.8040771484375
+            ],
+            "ObjectID": 170,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    235.18999999999505,
+                    660.2469999999739,
+                    307.5469999999914,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 2,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 72.375
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                683.7287139892578,
+                307.1000061035156,
+                719.8040771484375
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 171,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[3]/P",
+            "Text": "自 123 年 4 月 至 124 年 5 月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 25
+            }
+        },
+        {
+            "ObjectID": 172,
+            "Path": "//Document/Sect/Table/TR[2]/TD[4]",
+            "attributes": {
+                "BBox": [
+                    306.9479999999894,
+                    660.2469999999739,
+                    361.78499999998894,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 3,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 54.875
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                664.7687225341797,
+                465.42999267578125,
+                747.8840789794922
+            ],
+            "ObjectID": 173,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[5]",
+            "attributes": {
+                "BBox": [
+                    361.1849999999977,
+                    660.2469999999739,
+                    466.3009999999922,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 4,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 105.125
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                664.7687225341797,
+                465.42999267578125,
+                747.8840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 174,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[5]/P",
+            "Text": "固 定 月 薪 ： 100000元 ____津貼： 元 其他 ： 元 合計月薪： 元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                673.7687225341797,
+                544.8699951171875,
+                738.8840789794922
+            ],
+            "ObjectID": 176,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[6]",
+            "attributes": {
+                "BBox": [
+                    465.7009999999864,
+                    660.2469999999739,
+                    548.737999999983,
+                    751.4439999999886
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.625
+                ],
+                "ColIndex": 5,
+                "Height": 91.25,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 83
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                673.7687225341797,
+                544.8699951171875,
+                738.8840789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 177,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[2]/TD[6]/P",
+            "Text": "固定月薪 1 個月 績效獎金 1個月 年終獎金_1_個月 合計年薪_1_個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                602.7486419677734,
+                102.02447509765625,
+                642.8779602050781
+            ],
+            "ObjectID": 181,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    587.6499999999942,
+                    139.7939999999944,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.625,
+                    0.25
+                ],
+                "ColIndex": 0,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 92.5
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                602.7486419677734,
+                102.02447509765625,
+                642.8779602050781
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 182,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD/P",
+            "Text": "公司:comp1 部門:dep2 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 30
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                600.4487152099609,
+                233.36912536621094,
+                649.1240844726562
+            ],
+            "ObjectID": 183,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    139.19399999999587,
+                    587.6499999999942,
+                    235.7899999999936,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 1,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 96.625
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                625.0487213134766,
+                193.4195556640625,
+                649.1240844726562
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 184,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[2]/P",
+            "Text": "職稱： 工作內容： ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 13
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                600.4487152099609,
+                233.36912536621094,
+                611.5640869140625
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 185,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[2]/P[2]",
+            "Text": "擔任主管：□是□否 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                602.1287231445312,
+                299.6600036621094,
+                638.3240814208984
+            ],
+            "ObjectID": 186,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    235.18999999999505,
+                    587.6499999999942,
+                    307.5469999999914,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 2,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 72.375
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                602.1287231445312,
+                299.6600036621094,
+                638.3240814208984
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 187,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[3]/P",
+            "Text": "自 年 月 至 年 月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 25.125,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "ObjectID": 188,
+            "Path": "//Document/Sect/Table/TR[3]/TD[4]",
+            "attributes": {
+                "BBox": [
+                    306.9479999999894,
+                    587.6499999999942,
+                    361.78499999998894,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 3,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 54.875
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                592.1687164306641,
+                465.42999267578125,
+                657.2840728759766
+            ],
+            "ObjectID": 189,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[5]",
+            "attributes": {
+                "BBox": [
+                    361.1849999999977,
+                    587.6499999999942,
+                    466.3009999999922,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 4,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 105.125
+            }
+        },
+        {
+            "Bounds": [
+                452.97999572753906,
+                628.1687164306641,
+                465.42999267578125,
+                639.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 190,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[5]/P",
+            "Text": "元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                628.1886444091797,
+                465.42999267578125,
+                657.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 192,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[5]/P[2]",
+            "Text": "固定月薪： 元 ____津貼：",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                592.1687164306641,
+                465.42999267578125,
+                621.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 193,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[5]/P[3]",
+            "Text": "其他 ： 元 合計月薪： 元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                592.1687164306641,
+                544.8699951171875,
+                657.2840728759766
+            ],
+            "ObjectID": 194,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[6]",
+            "attributes": {
+                "BBox": [
+                    465.7009999999864,
+                    587.6499999999942,
+                    548.737999999983,
+                    660.9669999999751
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.625
+                ],
+                "ColIndex": 5,
+                "Height": 73.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 83
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                646.1687164306641,
+                544.8699951171875,
+                657.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 195,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[6]/P",
+            "Text": "固定月薪 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                592.1687164306641,
+                544.8699951171875,
+                621.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 196,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[6]/P[2]",
+            "Text": "年終獎金___個月 合計年薪___個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                628.1687164306641,
+                544.8699951171875,
+                639.2840728759766
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 197,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[3]/TD[6]/P[3]",
+            "Text": "績效獎金 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                530.2386474609375,
+                74.76287841796875,
+                570.3679656982422
+            ],
+            "ObjectID": 199,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    515.1729999999807,
+                    139.7939999999944,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.625,
+                    0.25
+                ],
+                "ColIndex": 0,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 92.5
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                560.2386474609375,
+                74.76287841796875,
+                570.3679656982422
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 201,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD/P/Sub",
+            "Text": "公司: ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                530.2386474609375,
+                74.76287841796875,
+                540.3679656982422
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 202,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD/P/Sub[2]",
+            "Text": "部門: ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                527.938720703125,
+                233.36912536621094,
+                576.6140747070312
+            ],
+            "ObjectID": 203,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    139.19399999999587,
+                    515.1729999999807,
+                    235.7899999999936,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 1,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 96.625
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                552.4187164306641,
+                193.4195556640625,
+                576.6140747070312
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 204,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[2]/P",
+            "Text": "職稱： 工作內容： ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 13.125
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                527.938720703125,
+                233.36912536621094,
+                539.0540771484375
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 205,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[2]/P[2]",
+            "Text": "擔任主管：□是□否 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                529.6187133789062,
+                299.6600036621094,
+                565.8140869140625
+            ],
+            "ObjectID": 206,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    235.18999999999505,
+                    515.1729999999807,
+                    307.5469999999914,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 2,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 72.375
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                529.6187133789062,
+                299.6600036621094,
+                565.8140869140625
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 207,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[3]/P",
+            "Text": "自 年 月 至 年 月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 25.125,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "ObjectID": 208,
+            "Path": "//Document/Sect/Table/TR[4]/TD[4]",
+            "attributes": {
+                "BBox": [
+                    306.9479999999894,
+                    515.1729999999807,
+                    361.78499999998894,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 3,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 54.875
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                519.6587219238281,
+                465.42999267578125,
+                584.8040771484375
+            ],
+            "ObjectID": 209,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[5]",
+            "attributes": {
+                "BBox": [
+                    361.1849999999977,
+                    515.1729999999807,
+                    466.3009999999922,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 4,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 105.125
+            }
+        },
+        {
+            "Bounds": [
+                452.97999572753906,
+                555.6587219238281,
+                465.42999267578125,
+                566.7740783691406
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 210,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[5]/P",
+            "Text": "元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                555.6786346435547,
+                465.42999267578125,
+                584.8040771484375
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 212,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[5]/P[2]",
+            "Text": "固定月薪： 元 ____津貼：",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                519.6587219238281,
+                465.42999267578125,
+                548.7740783691406
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 213,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[5]/P[3]",
+            "Text": "其他 ： 元 合計月薪： 元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                519.6587219238281,
+                544.8699951171875,
+                584.8040771484375
+            ],
+            "ObjectID": 214,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[6]",
+            "attributes": {
+                "BBox": [
+                    465.7009999999864,
+                    515.1729999999807,
+                    548.737999999983,
+                    588.3699999999953
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.375,
+                    0.25,
+                    0.625
+                ],
+                "ColIndex": 5,
+                "Height": 73.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 83
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                573.688720703125,
+                544.8699951171875,
+                584.8040771484375
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 215,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[6]/P",
+            "Text": "固定月薪 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                519.6587219238281,
+                544.8699951171875,
+                548.7740783691406
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 216,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[6]/P[2]",
+            "Text": "年終獎金___個月 合計年薪___個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                555.6587219238281,
+                544.8699951171875,
+                566.7740783691406
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 217,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[4]/TD[6]/P[3]",
+            "Text": "績效獎金 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                457.7586364746094,
+                74.76287841796875,
+                497.88795471191406
+            ],
+            "ObjectID": 219,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD",
+            "attributes": {
+                "BBox": [
+                    47.27809999999954,
+                    441.9759999999951,
+                    139.7939999999944,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.625,
+                    0.25
+                ],
+                "ColIndex": 0,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 92.5
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                487.7586364746094,
+                74.76287841796875,
+                497.88795471191406
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 221,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD/P/Sub",
+            "Text": "公司: ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                49.55999755859375,
+                457.7586364746094,
+                74.76287841796875,
+                467.88795471191406
+            ],
+            "Font": {
+                "alt_family_name": "Times New Roman PSMT",
+                "embedded": false,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Times New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "TimesNewRomanPSMT",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 222,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD/P/Sub[2]",
+            "Text": "部門: ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                455.45872497558594,
+                233.4199981689453,
+                504.1340789794922
+            ],
+            "ObjectID": 223,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    139.19399999999587,
+                    441.9759999999951,
+                    235.7899999999936,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 1,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 96.625
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                479.938720703125,
+                193.4195556640625,
+                504.1340789794922
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 224,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[2]/P",
+            "Text": "職稱： 工作內容： ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 13.125
+            }
+        },
+        {
+            "Bounds": [
+                141.02000427246094,
+                455.45872497558594,
+                233.4199981689453,
+                466.57408142089844
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 225,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[2]/P[2]",
+            "Text": "擔任主管：□是□否 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                457.1387176513672,
+                299.6600036621094,
+                493.2140808105469
+            ],
+            "ObjectID": 226,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    235.18999999999505,
+                    441.9759999999951,
+                    307.5469999999914,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 2,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 72.375
+            }
+        },
+        {
+            "Bounds": [
+                237.0500030517578,
+                457.1387176513672,
+                299.6600036621094,
+                493.2140808105469
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 227,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[3]/P",
+            "Text": "自 年 月 至 年 月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 25,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "ObjectID": 228,
+            "Path": "//Document/Sect/Table/TR[5]/TD[4]",
+            "attributes": {
+                "BBox": [
+                    306.9479999999894,
+                    441.9759999999951,
+                    361.78499999998894,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 3,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 54.875
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                447.17872619628906,
+                465.42999267578125,
+                512.2940826416016
+            ],
+            "ObjectID": 229,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[5]",
+            "attributes": {
+                "BBox": [
+                    361.1849999999977,
+                    441.9759999999951,
+                    466.3009999999922,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.25,
+                    0.25
+                ],
+                "ColIndex": 4,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 105.125
+            }
+        },
+        {
+            "Bounds": [
+                452.97999572753906,
+                483.17872619628906,
+                465.42999267578125,
+                494.29408264160156
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 230,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[5]/P",
+            "Text": "元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                483.1986389160156,
+                465.42999267578125,
+                512.2940826416016
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 232,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[5]/P[2]",
+            "Text": "固定月薪： 元 ____津貼：",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18
+            }
+        },
+        {
+            "Bounds": [
+                362.8300018310547,
+                447.17872619628906,
+                465.42999267578125,
+                476.29408264160156
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 233,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[5]/P[3]",
+            "Text": "其他 ： 元 合計月薪： 元 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                447.17872619628906,
+                544.8699951171875,
+                512.2940826416016
+            ],
+            "ObjectID": 234,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[6]",
+            "attributes": {
+                "BBox": [
+                    465.7009999999864,
+                    441.9759999999951,
+                    548.737999999983,
+                    515.8929999999818
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "BorderStyle": "Solid",
+                "BorderThickness": [
+                    0.375,
+                    0.75,
+                    0.25,
+                    0.625
+                ],
+                "ColIndex": 5,
+                "Height": 73.875,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 83
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                501.17872619628906,
+                544.8699951171875,
+                512.2940826416016
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 235,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[6]/P",
+            "Text": "固定月薪 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                447.17872619628906,
+                544.8699951171875,
+                476.29408264160156
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 236,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[6]/P[2]",
+            "Text": "年終獎金___個月 合計年薪___個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                467.5,
+                483.17872619628906,
+                544.8699951171875,
+                494.29408264160156
+            ],
+            "Font": {
+                "alt_family_name": "DF Kai Shu",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "DF Kai Shu",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "BCDEEE+DFKaiShu-SB-Estd-BF",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "ObjectID": 237,
+            "Page": 0,
+            "Path": "//Document/Sect/Table/TR[5]/TD[6]/P[3]",
+            "Text": "績效獎金 個月 ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    595.3200073242188,
+                    841.9199829101562
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    595.3200073242188,
+                    841.9199829101562
+                ]
+            },
+            "height": 841.9199829101562,
+            "is_scanned": false,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 595.3200073242188
+        }
+    ]
+}
